@@ -2,7 +2,7 @@
 
 An end-to-end Stock Market Analysis project that performs data cleaning, exploratory data analysis (EDA), and visualization on stock price data to generate actionable business insights.
 
----
+![Project Screenshot](Dashboard.jpeg.png)
 
 ## 🚀 Project Overview
 
@@ -90,3 +90,4 @@ This dashboard can help:
 - Businesses evaluate market conditions
 
 ---
+
